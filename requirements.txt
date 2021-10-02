@@ -1,0 +1,4 @@
+requests
+datetime
+Web3
+python-dotenv
