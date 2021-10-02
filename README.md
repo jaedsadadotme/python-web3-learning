@@ -4,4 +4,4 @@
 - [x] connenct 
 - [x] get balance of
 - [] get prince token
-- TODO
+TODO
